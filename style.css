@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Lobster', cursive;
+    background: teal;
+}
+
+.header_div
+{
+    background: cyan;
+    color: rgb(0, 85, 255);
+}
+
+.header_div p{
+    font-family: 'Teko', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: blue;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px;
+}
